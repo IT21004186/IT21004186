@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Sri lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21004186&label=Profile%20views&color=0e75b6&style=flat" alt="it21004186" /> </p>
+
 <p align="left"> <a href="https://twitter.com/harindu_" target="blank"><img src="https://img.shields.io/twitter/follow/harindu_?logo=twitter&style=for-the-badge" alt="harindu_" /></a> </p>
 
 - 🔭 I’m currently working on **Pantry**
