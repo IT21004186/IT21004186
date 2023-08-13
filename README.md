@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Pantry**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Nestjs**
 
 - 💬 Ask me about **React**
 
